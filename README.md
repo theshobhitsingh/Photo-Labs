@@ -1,4 +1,4 @@
-# PhotoLabs - A Sleek CSS Project
+# PhotoLabs
 
 Welcome to PhotoLabs, a stunning CSS project showcasing a sleek and stylish sidebar menu for seamless navigation and enhanced user experience.
 
